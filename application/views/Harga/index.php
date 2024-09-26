@@ -64,7 +64,7 @@
                         <th scope="row"><?=$harga['Nama_barang']; ?></th>
                         <td><?=$harga['Jumlah']; ?></td>
                         <td><?=$harga['Harga_barang']; ?></td>
-                        <td><?=$harga['Keterangan']; ?></td>
+                        <td><?=$Harga['Keterangan']; ?></td>
                     </tr>
                     <?php endforeach ; ?>
                 </tbody>
